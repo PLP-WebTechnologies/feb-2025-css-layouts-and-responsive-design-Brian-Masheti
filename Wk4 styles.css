@@ -25,7 +25,7 @@ img {
     text-align: center;
 }
 
-/* Rule cards using flex like we learned */
+/* Rule cards using flex */
 .rules-section {
     display: flex;
     justify-content: center;
@@ -122,5 +122,5 @@ main {
     text-align: center;
     width: 100%;
     margin-bottom: 30px; /* Add some space between title and cards */
-    font-size: 2em; /* Make it stand out */
+    font-size: 2em;
 }
